@@ -30,10 +30,6 @@ function uppg10(){
     other
   };
 }
-  
-    
-  
-  }
-  
-  module.exports = { uppg10 };
-  
+
+module.exports = { uppg10 };
+}
