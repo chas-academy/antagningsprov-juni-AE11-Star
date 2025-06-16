@@ -19,7 +19,7 @@ function uppg9() {
     }
 
     const siffror = [1, 2, 3, 4, 5, 6];
-    sorteraTal(siffror); Anrop
+    sorteraTal(siffror); 
 }
 
 uppg9();
